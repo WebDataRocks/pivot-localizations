@@ -203,7 +203,6 @@
     "noDataAvailable": "Data source is empty. Please check the CSV file.",
     "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
     "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
-    "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
     "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
     "unknownError": "Unknown error occurred.",
     "invalidReportFormat": "Invalid report format or access to file is denied.",
