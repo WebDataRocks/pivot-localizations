@@ -9,6 +9,7 @@ WebDataRocks is a free web reporting tool. [Download it here](https://www.webdat
 ## Available localizations
 
 - [English (default)](/en.json)
+- [French](/fr.json)
 - [German](/de.json)
 - [Spanish](/es.json)
 - [Italian (partial)](/it.json)
