@@ -1,859 +1,388 @@
 {
-
   "fieldsList": {
-
-    "flatHierarchyBox": "Seleziona e sposta colonne",
-
+    "flatHierarchyBox": "Seleziona e ordina le colonne",
     "hierarchyBox": "Trascina Dimensioni",
-
-    "filterBox": "Trascina & Sistema Filtri Report",
-
-    "rowBox": "Trascina & Sistema Righe",
-
-    "columnBox": "Trascina & Sistema Colonne",
-
-    "measureBox": "Trascina & Sistema Valori",
-
+    "filterBox": "Rilascia & Ordina Filtri Report",
+    "rowBox": "Rilascia & Ordina Righe",
+    "columnBox": "Rilascia & Ordina Colonne",
+    "measureBox": "Rilascia & Ordina Valori",
     "values": "Valori",
-
-    "addCalculatedMeasure": "Aggiungi valori calcolati",
-
-    "expandAll": "Espandi tutto",
-
-    "collapseAll": "Comprimi tutto",
-
-    "formulasGroupName": "Valori calcolati",
-
+    "addCalculatedMeasure": "Aggiungi valore calcolato",
+    "expandAll": "Espandi Tutto",
+    "collapseAll": "Collassa Tutto",
+    "formulasGroupName": "Valori Calcolati",
     "allFields": "Tutti i campi",
-
     "rows": "Righe",
-
     "columns": "Colonne",
-
-    "filters": "Filtri report",
-
-    "dropField": "Trascina campo qui",
-
+    "filters": "Filtri Report",
+    "dropField": "Rilascia qui il campo",
     "title": "Campi",
-
-    "subtitle": "Drag & drop campi da spostare"
-
+    "subtitle": "Trascina e rilascia i campi da ordinare"
   },
-
   "filter": {
-
     "all": "Tutti",
-
-    "multipleItems": "Item multipli",
-
-    "selectAll": "Seleziona tutto",
-
-    "selectAllResults": "Seleziona tutti i risultati",
-
-    "top": "Su",
-
-    "bottom": "Giu",
-
+    "multipleItems": "Elementi multipli",
+    "selectAll": "Seleziona Tutto",
+    "selectAllResults": "Seleziona Tutti i Risultati",
+    "top": "In cima",
+    "bottom": "In fondo",
     "ascSort": "Az",
-
     "descSort": "zA",
-
     "topX": "Top 10",
-
     "clearTopX": "Pulisci",
-
     "measuresPrompt": "Scegli valore",
-
-    "search": "Search",
-
+    "search": "Cerca",
     "amountSelected": "{0} di {1} selezionati",
-
     "amountFound": "{0} di {1} trovati sono selezionati",
-
     "sort": "Ordina:",
-
     "addGroup": "Aggiungi gruppo",
-
     "groupName": "Gruppo 1",
-
     "ungroup": "Elimina Gruppo"
-
   },
-
   "drillThrough": {
-
     "title": "Dettagli",
-
-    "row": "Righe: <b>{0}</b>",
-
-    "column": "Colonne: <b>{0}</b>",
-
+    "row": "Riga: <b>{0}</b>",
+    "column": "Colonna: <b>{0}</b>",
     "value": "{0}: <b>{1}</b>"
-
   },
-
   "calculatedView": {
-
-    "title": "Valori Calcolati",
-
-    "measureBox": "Trascina valori a formula",
-
-    "measureName": "Nome Valore",
-
+    "title": "Valore Calcolato",
+    "measureBox": "Trascina i valori nella formula",
+    "measureName": "Nome valore",
     "formula": "Formula",
-
-    "formulaPrompt": "Trascina valori e edita formula qui",
-
+    "formulaPrompt": "Rilascia i valori e modifica qui la formula",
     "calculateIndividualValues": "Calcola valori individuali",
-
-    "removeValue": "Elimina",
-
-    "removeValueTitle": "Elimina {0}?",
-
-    "removeValueMessage": "Sei sicuro di eliminare questo valore calcolato?",
-
+    "removeValue": "Rimuovi",
+    "removeValueTitle": "Rimuovere {0}?",
+    "removeValueMessage": "Sei sicuro di voler rimuovere questo valore calcolato?",
     "header": "Aggiungi valore calcolato",
-
     "allValues": "Tutti i valori"
-
   },
-
   "grid": {
-
     "total": "Totale",
-
-    "totals": "Totale",
-
-    "grandTotal": "Grand Totale",
-
+    "totals": "Totali",
+    "grandTotal": "Totale Complessivo",
     "blankMember": "(vuoto)",
-
     "dateInvalidCaption": "Data non valida",
-
     "reportInformation": "Informazioni Report"
-
   },
-
-  "charts": {
-
-    "showLegend": "Mostra legenda",
-
-    "hideLegend": "Nascondi legenda",
-
-    "selectMeasures": "Seleziona misure",
-
-    "rowNumber": "Numero riga",
-
-    "flatTypesLimitation": "Bar stack e bar line charts non sono disponibili per flat table.",
-
-    "noDataTitle": "Nessun dato da mostrare",
-
-    "bigDataSetWarning": "Il Data Set è troppo grande per essere mostrato sul grafico. Il Data Set sarà tagliato a misura per essere mostrato nel grafico."
-
-  },
-
   "tooltips": {
-
     "row": "Riga:",
-
     "column": "Colonna:",
-
     "headerResize": "Trascina per ridimensionare",
-
-    "headerFit": "Doppio click per aggiustamento",
-
+    "headerFit": "Doppio clic per addattare",
     "filterIcon": "Clicca per filtrare",
-
     "filtered": "Filtrato",
-
     "expandIcon": "Clicca per espandere",
-
-    "collapseIcon": "Clicca per comprimere",
-
-    "drillDown": "Clicca per il Drill Down",
-
-    "drillUp": "Clicca per il drill up",
-
-    "sortIcon": "Clicca per ordinare Desc",
-
-    "sortedDescIcon": "Clicca per ordinare Asc",
-
-    "sortedAscIcon": "Clicca per ordinare Desc",
-
+    "collapseIcon": "Clicca per collassare",
+    "drillDown": "Clicca per visualizzare dettagli più specifici",
+    "drillUp": "Clicca per visualizzare dettagli meno specifici",
+    "sortIcon": "Clicca per ordinare Decrescente",
+    "sortedDescIcon": "Clicca per ordinare Crescente",
+    "sortedAscIcon": "Clicca per ordinare Decrescente",
     "close": "Clicca per chiudere"
-
   },
-
   "aggregations": {
-
     "sum": {
-
       "caption": "Somma",
-
-      "totalCaption": "Totale di {0}",
-
-      "grandTotalCaption": "Totale della somma {0}"
-
+      "totalCaption": "Somma di {0}",
+      "grandTotalCaption": "Somma Totale di {0}"
     },
-
     "count": {
-
       "caption": "Conteggio",
-
       "totalCaption": "Conteggio di {0}",
-
-      "grandTotalCaption": "Totale Conteggio di {0}"
-
+      "grandTotalCaption": "Conteggio Totale di {0}"
     },
-
     "distinctCount": {
-
-      "caption": "Conteggio distinto",
-
-      "totalCaption": "Conteggio distinto di {0}",
-
-      "grandTotalCaption": "Totale Conteggio distinto di {0}"
-
+      "caption": "Conteggio Distinto",
+      "totalCaption": "Conteggio Distinto di {0}",
+      "grandTotalCaption": "Totale Conteggio Distinto di {0}"
     },
-
     "difference": {
-
       "caption": "Differenza",
-
       "totalCaption": "Differenza di {0}",
-
       "grandTotalCaption": "Differenza di {0}"
-
     },
-
     "percentDifference": {
-
-      "caption": "% Differenza",
-
-      "totalCaption": "% Differenza di {0}",
-
-      "grandTotalCaption": "% Differenza di {0}"
-
+      "caption": "Differenza %",
+      "totalCaption": "Differenza % di {0}",
+      "grandTotalCaption": "Differenza % di {0}"
     },
-
     "average": {
-
       "caption": "Media",
-
       "totalCaption": "Media di {0}",
-
       "grandTotalCaption": "Totale Media di {0}"
-
     },
-
     "product": {
-
       "caption": "Prodotto",
-
       "totalCaption": "Prodotto di {0}",
-
       "grandTotalCaption": "Totale Prodotto di {0}"
-
     },
-
     "min": {
-
       "caption": "Min",
-
       "totalCaption": "Min di {0}",
-
       "grandTotalCaption": "Totale Min di {0}"
-
     },
-
     "max": {
-
       "caption": "Max",
-
       "totalCaption": "Max di {0}",
-
       "grandTotalCaption": "Totale Max di {0}"
-
     },
-
     "percent": {
-
-      "caption": "% di Grande Totale",
-
-      "totalCaption": "% di Grande Totale di {0}",
-
-      "grandTotalCaption": "Totale % di Grande Totale di {0}"
-
-    },
-
+      "caption": "% del Totale Complessivo",
+      "totalCaption": "% del Totale Complessivo di {0}",
+      "grandTotalCaption": "% Totale del Totale Complessivo di {0}"
+    },                               
     "percentOfColumn": {
-
-      "caption": "% di Colonna",
-
-      "totalCaption": "% di Colonna di {0}",
-
-      "grandTotalCaption": "Totale % di Colonna di {0}"
-
+      "caption": "% della Colonna",
+      "totalCaption": "% della Colonna di {0}",
+      "grandTotalCaption": "% Totale della Colonna di {0}"
     },
-
     "percentOfRow": {
-
-      "caption": "% di Riga",
-
-      "totalCaption": "% di Riga di {0}",
-
-      "grandTotalCaption": "Totale % di Riga di {0}"
-
+      "caption": "% della Riga",
+      "totalCaption": "% della Riga di {0}",
+      "grandTotalCaption": "% Totale della Riga di {0}"
     },
-
     "index": {
-
       "caption": "Indice",
-
       "totalCaption": "Indice di {0}",
-
       "grandTotalCaption": "Indice di {0}"
-
     },
-
     "none": {
-
-      "caption": "Nessun calcolo"
-
+      "caption": "Nessun Calcolo"
     }
-
   },
-
   "messages": {
-
     "error": "Errore!",
-
-    "warning": "Warning!",
-
+    "warning": "Attenzione!",
     "limitation": "Limitazione!",
-
     "browse": "Sfoglia",
-
     "confirmation": "Conferma",
-
-    "reportFileType": "file report",
-
+    "reportFileType": "file report Flexmonster",
     "loading": "Caricamento...",
-
     "loadingConfiguration": "",
-
     "loadingData": "Caricamento dati...",
-
-    "waiting": "In attesa di risposta {0} sec.",
-
+    "waiting": "In attesa di risposta da {0} sec.",
     "progress": "{0}K",
-
     "progressUnknown": "caricati {0}K",
-
     "analyzing": "Analisi dati...",
-
     "analyzingProgress": "{0} record di {1} ({2}%)",
-
     "analyzingRecords": "{0}% record",
-
     "saving": "Salvataggio...",
-
-    "loadingDimensions": "Caricamento dimensioni...",
-
-    "loadingHierarchies": "Caricamento gerarchie...",
-
-    "loadingMeasures": "Caricamento misure...",
-
-    "loadingKPIs": "Caricamento KPI...",
-
+    "loadingDimensions": "Caricamento dimensioni in corso...",
+    "loadingHierarchies": "Caricamento gerarchie in corso...",
+    "loadingMeasures": "Caricamento misure in corso...",
+    "loadingKPIs": "Caricamento KPI in corso...",
     "loadingMembers": "Caricamento membri...",
-
-    "loadingLevels": "Caricamento livelli...",
-
-    "loadingProperties": "Caricamento properties...",
-
-    "fullscreen": "Aprire report in full screen?",
-
-    "exportComplete": "Export data is created, please click \"Save\" button to save the _data.",
-
-    "exportProgress": "Export in progress...",
-
-    "exportError": "Failed to export. An unexpected error occurred.",
-
-    "generatingPDF": "Generazione PDF in corso",
-
-    "pleaseWait": "Please wait.",
-
-    "pagesWereGenerated": "pages were generated.",
-
-    "uploading": "Uploading...",
-
-    "cantSaveFile": "Cannot save file.",
-
-    "cantSaveToClipboard": "Error: Cannot write to the clipboard.",
-
-    "saveReportToFile": "Report is ready to be saved to file, please click \"Save\" button to save the report.",
-
-    "loadReportFromFile": "Select report file to be loaded.",
-
-    "inputNewName": "Input new name",
-
-    "inputReportName": "Please input report name",
-
-    "invalidDataSource": "Invalid datasource or catalog. Please check. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Read more info about this error</a></u>",
-
-    "dataStreamError": "Stream error occurred while loading '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Read more info about this error</a></u>",
-
-    "unableToOpenFile": "Unable to open file {0}.<br/><br/>It seems that this file doesn't exist or 'Access-Control-Allow-Origin' header is absent in the resource requested.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Read more info about this error</a></u>",
-
-    "unableTwoFileBrowsingSessions": "Browse file dialog is already opened.",
-
-    "inappropriateFileFormat": "The data file is di inappropriate format.",
-
-    "invalidJSONdata": "JSON data is invalid.",
-
-    "wrongFormulaFormat": "Wrong formula format. Please check.",
-
-    "excelCsvChartsExportError": "Export to Microsoft Excel or CSV is not available for charts.",
-
-    "excelPdfExportLimitation": "Export to Microsoft Excel or PDF is not available in the current edition.",
-
-    "excelExportLimitation": "Export is not available in the current edition.",
-
-    "noDataAvailable": "Data source is empty. Please check the CSV file.",
-
-    "saveDataToFile": "Data is ready to be saved to file, please click \"Save\" button to save the file.",
-
-    "dataWasUpdated": "Data source has been updated on the server. Refresh the report?",
-
-    "cantConnectToAccelerator": "Cannot connect to data source. Please check if Flexmonster Accelerator is running.",
-
-    "ocsvIncompatible": "Unable to read data source. It seems that OCSV file was compressed with a newer version. Please update the component to version {0} or newer.",
-
-    "unknownError": "Unknown error occurred.",
-
-    "invalidReportFormat": "Invalid report format or access to file is denied.",
-
-    "csvHeaderParsingError": "CSV header parsing error.",
-
-    "tooManyColumnsInClassicMode": "Too many columns for classic form. Switched layout to compact form.",
-
-    "cantExpand": "Some fields cannot be expanded. Please narrow down the data set.",
-
-    "cantExpandTitle": "Data set is too large"
-
+    "loadingLevels": "Caricamento livelli in corso...",
+    "loadingProperties": "Caricamento proprietà in corso...",
+    "fullscreen": "Aprire report in modalità tutto schermo?",
+    "exportComplete": "L'esportazione dei dati è stata creata, fare clic sul bottone \"Salva\" per salvare i dati.",
+    "exportProgress": "Esportazione in corso...",
+    "exportError": "Esportazione fallita. Si è verificato un errore inaspettato.",
+    "generatingPDF": "Generazione PDF",
+    "pleaseWait": "Attendere prego.",
+    "pagesWereGenerated": "Le pagine sono state generate.",
+    "uploading": "Caricamento...",
+    "cantSaveFile": "Non posso salvare il file.",
+    "cantSaveToClipboard": "Errore: Impossibile scrivere negli appunti.",
+    "saveReportToFile": "Il Report è pronto per essere salvato su file, fare clic sul bottone \"Salva\" per salvare il report.",
+    "loadReportFromFile": "Seleziona il file report da caricare.",
+    "inputNewName": "Inserisci nuovo nome",
+    "inputReportName": "Si prega di inserire il nome del report",
+    "invalidDataSource": "sorgente dati o catalogo invalidi. Si prega di controllare. <br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#invalid-datasource' target='_blank'>Leggi maggiori informazioni su questo errore</a></u>",
+    "dataStreamError": "Si è verificato un errore di streaming durante il caricamento '{0}'<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#stream-error' target='_blank'>Leggi maggiori informazioni su questo errore</a></u>",
+    "unableToOpenFile": "Impossibile aprire il file {0}.<br/><br/>Sembra che questo file non esista o l'header 'Access-Control-Allow-Origin' è assente nella risorsa richiesta.<br/><br/><u><a href='https://www.flexmonster.com/doc/typical-errors/#unable-to-open-file' target='_blank'>Leggi maggiori informazioni su questo errore</a></u>",
+    "unableTwoFileBrowsingSessions": "La finestra di dialogo sfoglia è già aperta.",
+    "inappropriateFileFormat": "Il file di dati ha un formato inappropriato.",
+    "invalidJSONdata": "I dati JSON non sono validi.",
+    "wrongFormulaFormat": "Formato formula errato. Si prega di controllare.",
+    "excelCsvChartsExportError": "L'esportazione in Microsoft Excel o CSV non è disponibile per i grafici.",
+    "excelPdfExportLimitation": "L'esportazione in Microsoft Excel o PDF non è disponibile nell'edizione corrente.",
+    "excelExportLimitation": "L'esportazione non è disponibile nell'edizione corrente.",
+    "noDataAvailable": "Il data source è vuoto. Si prega di controllare il file CSV.",
+    "saveDataToFile": "I dati sono pronti per essere salvati su file, fare clic sul bottone \"Salva\" per salvare il file.",
+    "dataWasUpdated": "Il sorgente dati è stato aggiornato sul server. Aggiornare il report?"
+    "ocsvIncompatible": "Impossibile leggere il sorgente dati. Sembra che il file OCSV sia stato compresso con una versione più recente. Aggiorna il componente alla versione {0} o successiva.",
+    "unknownError": "Si è verificato un errore sconosciuto.",
+    "invalidReportFormat": "formato report non valido o accesso al file negato.",
+    "csvHeaderParsingError": "Errore di analisi dell'intestazione CSV.",
+    "tooManyColumnsInClassicMode": "Troppe colonne per la forma classica. Layout modificato in forma compatta.",
+    "cantExpand": "Alcuni campi non possono essere espansi. Riduci il set di dati.",
+    "cantExpandTitle": "Il set di dati è troppo grande"
   },
-
-  "kpis": {
-
-    "kpis": "KPI",
-
-    "value": "Valore",
-
-    "goal": "Goal",
-
-    "trend": "Trend",
-
-    "status": "Stato"
-
-  },
-
   "buttons": {
-
     "ok": "OK",
-
     "apply": "Applica",
-
     "cancel": "Annulla",
-
     "save": "Salva",
-
     "clear": "Pulisci",
-
     "select": "Seleziona",
-
     "yes": "Si",
-
     "no": "No"
-
   },
-
   "contextMenu": {
-
     "clearSorting": "Pulisci ordinamento",
-
     "collapse": "Comprimi",
-
-    "drillThrough": "Drill through",
-
+    "drillThrough": "Visualizza dettagli righe cella",
     "expand": "Espandi",
-
     "openFilter": "Apri filtro",
-
-    "sortColumnAsc": "Ordina colonna asc",
-
-    "sortColumnDesc": "Ordina colonna desc",
-
-    "sortRowAsc": "Ordina riga asc",
-
-    "sortRowDesc": "Ordina riga desc"
-
+    "sortColumnAsc": "Ordina colonna crescente",
+    "sortColumnDesc": "Ordina colonna decrescente",
+    "sortRowAsc": "Ordina riga crescente",
+    "sortRowDesc": "Ordina riga decrescente"
   },
-
   "date": {
-
     "year": "Anno",
-
-    "quarter": "Quarto",
-
+    "quarter": "Trimestre",
     "month": "Mese",
-
     "day": "Giorno"
-
   },
-
   "quarters": {
-
-    "q1": "1 Quarto",
-
-    "q2": "2 Quarto",
-
-    "q3": "3 Quarto",
-
-    "q4": "4 Quarto"
-
+    "q1": "1° Trimestre",
+    "q2": "2° Trimestre",
+    "q3": "3° Trimestre",
+    "q4": "4° Trimestre"
   },
-
   "months": {
-
     "january": "Gennaio",
-
     "february": "Febbraio",
-
     "march": "Marzo",
-
     "april": "Aprile",
-
     "may": "Maggio",
-
     "june": "Giugno",
-
     "july": "Luglio",
-
     "august": "Agosto",
-
     "september": "Settembre",
-
     "october": "Ottobre",
-
     "november": "Novembre",
-
     "december": "Dicembre"
-
   },
-
   "monthsShort": {
-
     "january": "Gen",
-
     "february": "Feb",
-
     "march": "Mar",
-
     "april": "Apr",
-
     "may": "Mag",
-
     "june": "Giu",
-
     "july": "Lug",
-
     "august": "Ago",
-
     "september": "Set",
-
     "october": "Ott",
-
     "november": "Nov",
-
     "december": "Dic"
-
   },
-
   "weekdays": {
-
-    "first": "Dom",
-
-    "second": "Lun",
-
-    "third": "Mar",
-
-    "fourth": "Mer",
-
-    "fifth": "Gio",
-
-    "sixth": "Ven",
-
-    "seventh": "Sab"
-
+    "first": "Domenica",
+    "second": "Lunedì",
+    "third": "Martedì",
+    "fourth": "Mercoledì",
+    "fifth": "Giovedì",
+    "sixth": "Venerdì",
+    "seventh": "Sabato"
   },
-
   "weekdaysShort": {
-
     "first": "Dom",
-
     "second": "Lun",
-
     "third": "Mar",
-
     "fourth": "Mer",
-
     "fifth": "Gio",
-
     "sixth": "Ven",
-
     "seventh": "Sab"
-
   },
-
   "toolbar": {
-
     "connect": "Connetti",
-
     "connect_local_csv": "A CSV locale",
-
     "connect_local_ocsv": "A OCSV locale",
-
     "connect_local_json": "A JSON locale",
-
-    "connect_remote_csv": "A CSV remote",
-
+    "connect_remote_csv": "A CSV remoto",
     "connect_remote_csv_mobile": "CSV",
-
-    "connect_remote_json": "A JSON remote",
-
+    "connect_remote_json": "A JSON remoto",
     "connect_remote_json_mobile": "JSON",
-
-    "connect_olap": "A OLAP (XMLA)",
-
-    "connect_olap_mobile": "OLAP",
-
     "open": "Apri",
-
     "local_report": "Report locale",
-
     "remote_report": "Report remoto",
-
     "remote_report_mobile": "Report",
-
     "save": "Salva",
-
-    "save_json": null,
-
+    "save_json": nullo,
     "load_json": "Report JSON",
-
     "grid": "Griglia",
-
-    "grid_flat": "Flat",
-
-    "grid_classic": "Classico",
-
-    "grid_compact": "Compatto",
-
-    "charts": "Charts",
-
-    "charts_bar": "Colonna",
-
-    "charts_bar_horizontal": "Bar",
-
-    "charts_line": "Linea",
-
-    "charts_scatter": "Scatter",
-
-    "charts_pie": "Torta",
-
-    "charts_bar_stack": "Bar stack",
-
-    "charts_bar_line": "Bar line",
-
-    "charts_multiple": "Valori multiplio",
-
-    "charts_multiple_disabled": "Viste multiple non si applicano a ",
-
-    "format": "Formatta",
-
-    "format_cells": "Formatta celle",
-
-    "format_cells_mobile": "Formattazione",
-
-    "conditional_formatting": "Formattazione Condizionale",
-
+    "grid_flat": "Piatta",
+    "grid_classic": "Classica",
+    "grid_compact": "Compatta",
+    "format": "Formato",
+    "format_cells": "Formato celle",
+    "format_cells_mobile": "Formato",
+    "conditional_formatting": "Formatazzione Condizionale",
     "conditional_formatting_mobile": "Condizionale",
-
     "options": "Opzioni",
-
-    "fullscreen": "Fullscreen",
-
+    "fullscreen": "Schermo intero",
     "minimize": "Minimizza",
-
     "export": "Esporta",
-
     "export_print": "Stampa",
-
-    "export_html": "A HTML",
-
-    "export_csv": "A CSV",
-
-    "export_excel": "A Excel",
-
-    "export_image": "A Immagine",
-
-    "export_pdf": "A PDF",
-
+    "export_html": "In HTML",
+    "export_excel": "In Excel",
+    "export_pdf": "In PDF",
     "fields": "Campi",
-
     "ok": "OK",
-
     "apply": "Applica",
-
     "done": "Fatto",
-
     "cancel": "Annulla",
-
-    "value": "Valori",
-
+    "value": "Valore",
     "delete": "Elimina",
-
     "if": "Se",
-
     "then": "Allora",
-
     "open_remote_csv": "Apri CSV remoto",
-
     "open_remote_json": "Apri JSON remoto",
-
     "csv": "CSV",
-
-    "olap_connection_tool": "OLAP tool connessione",
-
-    "select_data_source": "Seleziona data source",
-
-    "select_catalog": "Seleziona catalogo",
-
-    "select_cube": "Seleziona cubo",
-
-    "proxy_url": "Proxy URL",
-
-    "data_source_info": "Data Source Info",
-
-    "catalog": "Catalogo",
-
-    "cube": "Cubo",
-
-    "credentials": "credenziali",
-
-    "username": "Username",
-
-    "password": "Password",
-
     "open_remote_report": "Apri report remoto",
-
     "choose_value": "Scegli valore",
-
     "text_align": "Allinea testo",
-
     "align_left": "sinistra",
-
     "align_right": "destra",
-
     "none": "Nessuno",
-
     "space": "(Spazio)",
-
-    "thousand_separator": "Separatore mille",
-
-    "decimal_separator": "Separatore decimale",
-
-    "decimal_places": "Posti deciali",
-
-    "currency_symbol": "Allinea simnbolo",
-
+    "thousand_separator": "Separatore migliaia",
+    "decimal_separator": "Separatore decimali",
+    "decimal_places": "Numero Decimali",
+    "currency_symbol": "Simbolo moneta",
     "currency_align": "Allinea moneta",
-
-    "null_value": "Valore Nullo",
-
+    "null_value": "Valore nullo",
     "is_percent": "Formatta come percentuale",
-
     "true_value": "vero",
-
     "false_value": "falso",
-
     "conditional": "Condizionale",
-
     "add_condition": "Aggiungi condizione",
-
-    "less_than": "Minore a",
-
-    "less_than_or_equal": "Minore o uguale a",
-
+    "less_than": "Minore di",
+    "less_than_or_equal": "Minore o uguale di",
     "greater_than": "Maggiore di",
-
-    "greater_than_or_equal": "Uguale o maggiore di",
-
-    "equal_to": "uguale a",
-
+    "greater_than_or_equal": "Maggiore o uguale di",
+    "equal_to": "Uguale a",
     "not_equal_to": "Non uguale a",
-
     "between": "Tra",
-
     "is_empty": "Vuoto",
-
     "all_values": "Tutti i valori",
-
     "and": "e",
-
     "and_symbole": "&",
-
     "cp_text": "Testo",
-
     "cp_highlight": "Evidenzia",
-
     "layout_options": "Opzioni Layout",
-
     "layout": "Layout",
-
-    "compact_view": "Form compatto",
-
-    "classic_view": "Form classico",
-
-    "flat_view": "Form piatto",
-
-    "grand_totals": "Grand totali",
-
-    "grand_totals_off": "Non Mostrare grand totali",
-
-    "grand_totals_on": "Mostra grand totals",
-
-    "grand_totals_on_rows": "Mostra for rows only",
-
+    "compact_view": "Forma compatta",
+    "classic_view": "Forma classica",
+    "flat_view": "Forma piatta",
+    "grand_totals": "Totali complessivi",
+    "grand_totals_off": "Non mostrare totali complessivi",
+    "grand_totals_on": "Mostra totali complessivi",
+    "grand_totals_on_rows": "Mostra solo per righe",
     "grand_totals_on_columns": "Mostra solo per colonne",
-
     "subtotals": "Subtotali",
-
-    "subtotals_off": "Non Mostrare subtotali",
-
+    "subtotals_off": "Non mostrare subtotali",
     "subtotals_on": "Mostra subtotali",
-
-    "subtotals_on_rows": "Mostra solo subTotale righe",
-
-    "subtotals_on_columns": "Mostra solo subTotale colonne",
-
-    "choose_page_orientation": "Seleziona orientamento pagina",
-
-    "landscape": "Landscape",
-
-    "portrait": "Portrait"
-
+    "subtotals_on_rows": "Mostra solo subtotali righe",
+    "subtotals_on_columns": "Mostra solo subtotali colonne",
+    "choose_page_orientation": "Scegli orientamento pagina",
+    "landscape": "Orizzontale",
+    "portrait": "Verticale"
   }
-
 }
