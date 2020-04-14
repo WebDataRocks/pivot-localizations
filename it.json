@@ -202,7 +202,7 @@
     "excelExportLimitation": "L'esportazione non è disponibile nell'edizione corrente.",
     "noDataAvailable": "Il data source è vuoto. Si prega di controllare il file CSV.",
     "saveDataToFile": "I dati sono pronti per essere salvati su file, fare clic sul bottone \"Salva\" per salvare il file.",
-    "dataWasUpdated": "Il sorgente dati è stato aggiornato sul server. Aggiornare il report?"
+    "dataWasUpdated": "Il sorgente dati è stato aggiornato sul server. Aggiornare il report?",
     "ocsvIncompatible": "Impossibile leggere il sorgente dati. Sembra che il file OCSV sia stato compresso con una versione più recente. Aggiorna il componente alla versione {0} o successiva.",
     "unknownError": "Si è verificato un errore sconosciuto.",
     "invalidReportFormat": "formato report non valido o accesso al file negato.",
