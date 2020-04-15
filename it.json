@@ -304,7 +304,7 @@
     "remote_report": "Report remoto",
     "remote_report_mobile": "Report",
     "save": "Salva",
-    "save_json": nullo,
+    "save_json": null,
     "load_json": "Report JSON",
     "grid": "Griglia",
     "grid_flat": "Piatta",
