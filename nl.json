@@ -206,7 +206,7 @@
     "ocsvIncompatible": "Kan de data source niet lezen. Het lijkt dat het OCSV file is ingepakt met een een nieuwere versie. Update het component naar versie {0} of nieuwer.",
     "unknownError": "Onbekende fout opgetreden.",
     "invalidReportFormat": "Foutief rapport formaat of toegang tot bestand is geweigerd.",
-    "csvHeaderParsingError": "CSV header parsing error.",
+    "csvHeaderParsingError": "CSV header parse error.",
     "tooManyColumnsInClassicMode": "Teveel kolommen voor klassieke vorm. Layout geswitched naar compacte vorm.",
     "cantExpand": "Sommige velden kunnen niet uitgeklapt worden. Verklein de dataset.",
     "cantExpandTitle": "Data set is te groot"
@@ -344,7 +344,7 @@
     "space": "(Spatie)",
     "thousand_separator": "Duizendtal scheidingsteken",
     "decimal_separator": "Decimaal scheidingsteken",
-    "decimal_places": "Decimaal aantaal",
+    "decimal_places": "Decimaal aantal",
     "currency_symbol": "Valuta symbool",
     "currency_align": "Valuta uitlijning",
     "null_value": "Lege waarde",
