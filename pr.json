@@ -61,7 +61,7 @@
   "grid": {
     "total": "Total",
     "totals": "Totais",
-    "grandTotal": "Grand Total",
+    "grandTotal": "Total Geral",
     "blankMember": "(vazio)",
     "dateInvalidCaption": "Data inválida",
     "reportInformation": "Informações do relatório"
@@ -85,13 +85,13 @@
   "aggregations": {
     "sum": {
       "caption": "Somar",
-      "totalCaption": "Somatório de {0}",
-      "grandTotalCaption": "Total do somatório de {0}"
+      "totalCaption": "Soma {0}",
+      "grandTotalCaption": "Total {0}"
     },
     "count": {
       "caption": "Contagem",
-      "totalCaption": "Contagem de {0}",
-      "grandTotalCaption": "Total da contagem de {0}"
+      "totalCaption": "Cont. {0}",
+      "grandTotalCaption": "Total {0}"
     },
     "distinctCount": {
       "caption": "Contagem distinta",
@@ -144,9 +144,9 @@
       "grandTotalCaption": "Total % da linha de {0}"
     },
     "index": {
-      "caption": "Índex",
-      "totalCaption": "Índex de {0}",
-      "grandTotalCaption": "Índex de {0}"
+      "caption": "Índice",
+      "totalCaption": "Índice de {0}",
+      "grandTotalCaption": "Índice de {0}"
     },
     "none": {
       "caption": "Sem cálculo"
@@ -342,11 +342,11 @@
     "align_right": "direita",
     "none": "Nenhum",
     "space": "(espaço)",
-    "thousand_separator": "Separador de milhares",
+    "thousand_separator": "Separador de milhar",
     "decimal_separator": "Separador de decimais",
     "decimal_places": "Casas de decimais",
     "currency_symbol": "Símbolo de moeda",
-    "currency_align": "Alinhamendo de valores em moeda",
+    "currency_align": "Alinhamento de valores em moeda",
     "null_value": "valor nulo",
     "is_percent": "Formate como percentual",
     "true_value": "sim",
