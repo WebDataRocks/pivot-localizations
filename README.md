@@ -1,13 +1,11 @@
 # WebDataRocks localization files 
 
-This repository holds localization files for WebDataRocks web reporting tool. For detailed information about language localization please refer to this tutorial: [WebDataRocks localization](https://www.webdatarocks.com/doc/language-localization/).
+This repository contains localization files for [WebDataRocks](https://www.webdatarocks.com/).
 
 ## Get WebDataRocks
-
 WebDataRocks is a free web reporting tool. [Download it here](https://www.webdatarocks.com/doc/download/).
 
 ## Available localizations
-
 - [English (default)](/en.json)
 - [French](/fr.json)
 - [German](/de.json)
@@ -18,6 +16,11 @@ WebDataRocks is a free web reporting tool. [Download it here](https://www.webdat
 - [Chinese](/zh.json)
 - [Turkish](/tr.json)
 
-## Contributions 
+## Usage
+To learn how to translate WebDataRocks into a different language, please refer to the following tutorial: [Language localization](https://www.webdatarocks.com/doc/language-localization/).
 
-Localization files for new languages can be added by creating a new pull request. Our team highly appreciates any help.
+## Contribution
+Localization files for new languages can be added by creating a pull request. Our team highly appreciates any help.
+
+## Support
+Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
