@@ -245,7 +245,7 @@
     "q4": "4. Quartal"
   },
   "months": {
-    "january": "Jänner",
+    "january": "Januar",
     "february": "Februar",
     "march": "März",
     "april": "April",
@@ -273,7 +273,7 @@
     "december": "Dez"
   },
   "weekdays": {
-    "first": "sonntag",
+    "first": "Sonntag",
     "second": "Montag",
     "third": "Dienstag",
     "fourth": "Mittwoch",
