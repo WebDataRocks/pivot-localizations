@@ -15,6 +15,7 @@ WebDataRocks is a free web reporting tool. [Download it here](https://www.webdat
 - [Brazilian Portuguese](/pr.json)
 - [Chinese](/zh.json)
 - [Turkish](/tr.json)
+- [Polish](/pl.json)
 
 ## Usage
 To learn how to translate WebDataRocks into a different language, please refer to the following tutorial: [Language localization](https://www.webdatarocks.com/doc/language-localization/).
