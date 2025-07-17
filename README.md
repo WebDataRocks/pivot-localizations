@@ -3,7 +3,7 @@
 This repository contains localization files for [WebDataRocks](https://www.webdatarocks.com/).
 
 ## Get WebDataRocks
-WebDataRocks is a free web reporting tool. [Download it here](https://www.webdatarocks.com/doc/download/).
+WebDataRocks is a free web reporting tool. [Download it here](https://www.webdatarocks.com/doc/how-to-start-online-reporting/).
 
 ## Available localizations
 - [English (default)](/en.json)
