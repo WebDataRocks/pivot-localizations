@@ -3,9 +3,11 @@
 This repository contains localization files for [WebDataRocks](https://www.webdatarocks.com/).
 
 ## Get WebDataRocks
+
 WebDataRocks is a free web reporting tool. [Download it here](https://www.webdatarocks.com/doc/how-to-start-online-reporting/).
 
 ## Available localizations
+
 - [English (default)](/en.json)
 - [French](/fr.json)
 - [German](/de.json)
@@ -19,10 +21,13 @@ WebDataRocks is a free web reporting tool. [Download it here](https://www.webdat
 - [Urdu](ur.json)
 
 ## Usage
+
 To learn how to translate WebDataRocks into a different language, please refer to the following tutorial: [Language localization](https://www.webdatarocks.com/doc/language-localization/).
 
 ## Contribution
+
 If you notice a mistake in localization or want to add a new language, you are welcome to contribute by creating a pull request with your changes. We will review them and merge the pull request into our repository.
 
 ## Support
-Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+
+For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
