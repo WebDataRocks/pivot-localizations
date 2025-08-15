@@ -1,4 +1,5 @@
-# WebDataRocks localization files 
+# WebDataRocks localization files
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/main.png)](https://www.webdatarocks.com/)
 
 This repository contains localization files for [WebDataRocks](https://www.webdatarocks.com/).
 
@@ -30,4 +31,4 @@ If you notice a mistake in localization or want to add a new language, you are w
 
 ## Support
 
-For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
+For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
