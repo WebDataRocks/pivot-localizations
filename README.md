@@ -29,6 +29,10 @@ To learn how to translate WebDataRocks into a different language, please refer t
 
 If you notice a mistake in localization or want to add a new language, you are welcome to contribute by creating a pull request with your changes. We will review them and merge the pull request into our repository.
 
+## License
+
+Localization files for WebDataRocks are distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=wrap_vue).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
